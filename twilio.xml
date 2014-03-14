@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+<Say language="ja-JP">こんにちは</Say>Say>
+<Say language="fr-FR">Chapeau!</Say>Say>
+<Say language="ko-KR">반갑습니다.</Say>Say>
+</Response>
